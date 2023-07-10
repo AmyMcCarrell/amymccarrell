@@ -11,18 +11,23 @@ Feel free to explore the exciting projects that I've been working on!</a></h2>
   - [osTicket: Post-Installation Configuration](https://github.com/AmyMcCarrell/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AmyMcCarrell/ticket-lifecycle)
 
-<br>
-<h2>I’m currently working on ...</h2>
+<div align="center">
+  
+<h3><i>⚡I’m currently working on ...</i></h3>
+
+</div>
+
+
 
 <h3>🔐🪪 Cloud/Cybersecurity Projects:</h3>
 
 - <b>Security in Azure</b>
   - [Azure SOC Overview](https://github.com/AmyMcCarrell/Azure-SOC-Overview/blob/main/README.md)
-  - [Azure SOC Setup](https://github.com/AmyMcCarrell/Azure-SOC-Setup)
-  - *[Logging and Monitoring]()* *In Progress...*
-  - [Microsoft Sentinel SIEM]()
-  - [Secure Azure Configuration]()
-  - [Azure SOC Detailed Summary]()
+  - [Azure SOC Setup](https://github.com/AmyMcCarrell/Cloud-SOC-PreReq) *In Progress...*
+  - *[Logging and Monitoring]()* 
+  - *[Microsoft Sentinel SIEM]()*
+  - *[Secure Azure Configuration]()*
+  - *[Azure SOC Detailed Summary]()*
 
 
 <h3>📶🖥️ Cloud/Network Projects:</h3>
